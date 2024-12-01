@@ -1,4 +1,4 @@
-**SuperWalk’s Role in Kaia’s Social-Fi Revolution**
+## **SuperWalk’s Role in Kaia’s Social-Fi Revolution**
 
 Web3 and blockchain are buzzing with new possibilities, and a fresh wave of decentralized fitness and social interaction is rising, powered by the Social-Fi model. SuperWalk stands at the forefront, a Move-to-Earn platform built on the Kaia network. By combining physical activity with blockchain, SuperWalk offers a unique ecosystem where users earn rewards just by walking and running. With Kaia’s Social-Fi infrastructure backing it, SuperWalk sets a bold new standard for engaged, loyal, and financially rewarded blockchain communities.
 
